@@ -18,6 +18,8 @@ For more information about vagrant access [Getting Started of Vagrant](http://do
 
 ## Getting Started
 
+To download of vagrant box access [http://goo.gl/pdZLXn](http://goo.gl/pdZLXn)
+
 ### Jenkins CI
 
 To start/stop jenkins:
