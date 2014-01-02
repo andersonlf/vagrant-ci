@@ -9,7 +9,7 @@ Vagrant-ci is a vagrant box with all tools for continuos integration:
 * Jenkins 1.545
 * Sonatype Nexus 2.7.0-06
 * SonarQube 4.0
-* Subversion 
+* Subversion 1.6.17
 
 ## About Vagrant
 
