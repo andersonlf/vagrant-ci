@@ -1,6 +1,6 @@
 # vagrant-ci
 
-Vagrant-ci is a vagrant box with all tools for continuos integration:
+Vagrant-ci is a vagrant box based on Ubuntu LTS Precise Pangolin (32 bits) with all tools for continuous integration:
 
 * Apache Ant 1.9.2
 * Apache Maven 3.1.1
